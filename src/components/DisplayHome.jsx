@@ -1,4 +1,3 @@
-import React from 'react';
 import Navbar from "./Navbar.jsx";
 import { albumsData } from "../assets/assets.js";
 import AlbumItem from "./AlbumItem.jsx";
