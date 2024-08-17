@@ -1,8 +1,14 @@
-# React + Vite
+# A react project made with a tutorial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a starter project that I was making to learn the basics of React! Tge website can be fully navigated into albums or specific songs.
 
-Currently, two official plugins are available:
+## Setup and Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+First, clone the repo and install the dependancies using `npm install`
+
+Then run the project using `npm run dev`
+
+It should start up on localhost 3000 or 5173
+
+## Results
+![image](https://github.com/user-attachments/assets/3274f53a-33e8-43b4-8dcc-ff1d7d0c38fb)
