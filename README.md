@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/4257b355-d19e-41cd-8ab8-4f91a8dd4254)# A react project made with a tutorial
-
+# Spotify Clone
 This is a starter project that I was making to learn the basics of React! Tge website can be fully navigated into albums or specific songs.
 
 ## Setup and Installation
